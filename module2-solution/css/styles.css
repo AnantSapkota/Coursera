@@ -14,23 +14,27 @@ h1{
 
 /* SECTIONS */
 section{
-  width: 90%;
+  clear: margin;
   background-color: grey;
-  border: 1px solid black;
+  border: 3px solid black;
   position: relative;
   padding: 45px 10px 10px 10px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 20px;
+  font-size: 100%;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  margin-right: 15px;
   font-family: cursive;
   font-weight: bold;
 }
 
 /* H2 */
 h2{
-  width: 40%;
+  width: 140px;
+  height: 35px;
   border: 1px solid black;
-  padding: 0px 10px 0px 10px;
+  padding: center;
+  margin:auto;
+  float: none;
   text-align: center;
   font-weight: bold;
   font-family: cursive;
